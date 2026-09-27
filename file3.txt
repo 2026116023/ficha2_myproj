@@ -1,5 +1,12 @@
-Este é um exemplo de um ficheiro de texto file3
+<h1>Lisyas de coisas</h1>
 
 
 
-sksdmlasklasll
+<h2>Comida</h2>
+
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
