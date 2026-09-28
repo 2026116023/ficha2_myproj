@@ -1,4 +1,16 @@
 vim alterar o fiheiro para a nova feature
 
 
+
 Alteração no branch NovaFeature
+
+
+
+
+
+Fiz uma alteração dentro do ficheiro
+
+
+
+Alteração no branch MASTER
+

@@ -1,12 +1,20 @@
-<h1>Lisyas de coisas</h1>
 
+asdaL
+<h2>Bebidas<h2/>
 
+<<<<<<< HEAD
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+=======
 
-<h2>Comida</h2>
+<h2>sdaComida</h2>
 
 
 <ul>
   <li>Bolos</li>
   <li>Tostas</li>
   <li>Sandes</li>
+>>>>>>> NovaFeature
 </ul>
